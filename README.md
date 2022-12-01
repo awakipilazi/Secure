@@ -59,13 +59,10 @@ pages
 
 Traditionnellement, les fichiers de configuration et les fichiers de données utilisés par une instance du serveur sont stockés ensemble dans le répertoire des données, habituellement référencé en tant que PGDATA (d'après le nom de la variable d'environnement qui peut être utilisé pour le définir). Un emplacement courant pour PGDATA est /var/lib/pgsql/data. Plusieurs groupes, gérés par différentes instances du serveur, peuvent exister sur la même machine.
 
-##PARTIE QUESTION SUR SQL ET CES NORMES
-Norme Actuelle :Publié
-ISO/IEC 9075-1:2016 (Une norme est révisée tous les 5 ansPublié)
-Une norme est révisée tous les 5 ans
-En cours d’élaboration : ISO/IEC DIS 9075-1
 
 La norme SQL n'est pas distribuée gratuitement. La norme complète peut être achetée auprès de l'ISO.
+
+Parties
 La norme est découpée selon les parties suivantes3:
 
 ISO/CEI 9075-1:2011 [archive] Framework
