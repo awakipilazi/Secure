@@ -68,13 +68,23 @@ La norme SQL n'est pas distribuée gratuitement. La norme complète peut être a
 La norme est découpée selon les parties suivantes3:
 
 *ISO/CEI 9075-1:2011 [archive] Framework
+
 *ISO/CEI 9075-2:2011 [archive] Foundation
+
 *ISO/CEI 9075-3:2008 [archive] Call-Level Interface
+
 *ISO/CEI 9075-4:2011 [archive] Persistent Stored Modules
+
 *ISO/CEI 9075-9:2008 [archive] Management of External Data
+
 *ISO/CEI 9075-10:2008 [archive] Object Language Bindings
+
 *ISO/CEI 9075-11:2011 [archive] Information and Definition Schemas
+
 *ISO/CEI 9075-13:2008 [archive] SQL Routines and Types Using the Java Programming Language
+
 *ISO/CEI 9075-14:2011 [archive] XML-Related Specifications
-*La partie la plus importante est la partie 2, qui est aussi la plus longue avec 1470 pages, soit 100 pages de plus que pour SQL:2008. Les parties manquantes sont des parties qui ont été retirées pour diverses raisons, lorsqu'un numéro de partie est utilisé il n'est plus réutilisé
+
+*La partie la plus importante est la partie 2, qui est aussi la plus longue avec 1470 pages, soit 100 pages de plus que pour SQL:2008. Les parties manquantes sont 
+des parties qui ont été retirées pour diverses raisons, lorsqu'un numéro de partie est utilisé il n'est plus réutilisé
 
