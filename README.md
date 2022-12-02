@@ -60,22 +60,31 @@ pages
 Traditionnellement, les fichiers de configuration et les fichiers de données utilisés par une instance du serveur sont stockés ensemble dans le répertoire des données, habituellement référencé en tant que PGDATA (d'après le nom de la variable d'environnement qui peut être utilisé pour le définir). Un emplacement courant pour PGDATA est /var/lib/pgsql/data. Plusieurs groupes, gérés par différentes instances du serveur, peuvent exister sur la même machine.
 
 ##PARTIE QUESTION SUR SQL ET CES NORMES
-Norme Actuelle :Publié
-ISO/IEC 9075-1:2016 (Une norme est révisée tous les 5 ansPublié)
-Une norme est révisée tous les 5 ans
-En cours d’élaboration : ISO/IEC DIS 9075-1
+*Norme Actuelle :Publié ISO/IEC 9075-1:2016 (Une norme est révisée tous les 5 ansPublié)
+*Une norme est révisée tous les 5 ans
+*En cours d’élaboration : ISO/IEC DIS 9075-1
 
 La norme SQL n'est pas distribuée gratuitement. La norme complète peut être achetée auprès de l'ISO.
 La norme est découpée selon les parties suivantes3:
 
-ISO/CEI 9075-1:2011 [archive] Framework
-ISO/CEI 9075-2:2011 [archive] Foundation
-ISO/CEI 9075-3:2008 [archive] Call-Level Interface
-ISO/CEI 9075-4:2011 [archive] Persistent Stored Modules
-ISO/CEI 9075-9:2008 [archive] Management of External Data
-ISO/CEI 9075-10:2008 [archive] Object Language Bindings
-ISO/CEI 9075-11:2011 [archive] Information and Definition Schemas
-ISO/CEI 9075-13:2008 [archive] SQL Routines and Types Using the Java Programming Language
-ISO/CEI 9075-14:2011 [archive] XML-Related Specifications
-La partie la plus importante est la partie 2, qui est aussi la plus longue avec 1470 pages, soit 100 pages de plus que pour SQL:2008. Les parties manquantes sont des parties qui ont été retirées pour diverses raisons, lorsqu'un numéro de partie est utilisé il n'est plus réutilisé
+*ISO/CEI 9075-1:2011 [archive] Framework
+
+*ISO/CEI 9075-2:2011 [archive] Foundation
+
+*ISO/CEI 9075-3:2008 [archive] Call-Level Interface
+
+*ISO/CEI 9075-4:2011 [archive] Persistent Stored Modules
+
+*ISO/CEI 9075-9:2008 [archive] Management of External Data
+
+*ISO/CEI 9075-10:2008 [archive] Object Language Bindings
+
+*ISO/CEI 9075-11:2011 [archive] Information and Definition Schemas
+
+*ISO/CEI 9075-13:2008 [archive] SQL Routines and Types Using the Java Programming Language
+
+*ISO/CEI 9075-14:2011 [archive] XML-Related Specifications
+
+*La partie la plus importante est la partie 2, qui est aussi la plus longue avec 1470 pages, soit 100 pages de plus que pour SQL:2008. Les parties manquantes sont 
+des parties qui ont été retirées pour diverses raisons, lorsqu'un numéro de partie est utilisé il n'est plus réutilisé
 
